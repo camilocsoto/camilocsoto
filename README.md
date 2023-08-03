@@ -14,11 +14,11 @@ I am an eternal student 💚.
 
 ## 🎯 Hobbies 
 
-- read science fiction books 📘
+- read sci-fi books 📘
 - Listen music and podcasts 🎧
-- Watch Star Wars movies and series 📽
+- Watch movies and series of Star Wars 📽
 
-## ✉️ How to get in touch 
+## ✉️ How to get in contact 
 - About me [Linkedin](https://www.linkedin.com/in/juan-camilo-suárez-soto-00430a155/) ▶
 
 <!---
