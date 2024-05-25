@@ -1,6 +1,6 @@
 # console.log('Hello world 👋')
 
-Hi, my name is Juan Camilo Suárez 👾. Student of System Engineer, specialized in ... using JavaScript. I also have experience in ... My goal is ... 🚀
+Hi, my name is Juan Camilo Suárez 👾. I am a Systems Engineering student at Uniminuto, specializing in software development using JavaScript, Docker, Linux, and Python. I also have experience in unit testing, staff training, and SAP support in different countries. My goal is to transition to the machine learning and deep learning field to offer cutting-edge AI-based solutions 🚀.
 
 I am an eternal student 💚.
 
