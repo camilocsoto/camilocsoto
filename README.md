@@ -19,7 +19,7 @@ I am an eternal student 💚.
 - Watch movies and series of Star Wars 📽
 
 ## ✉️ How to get in contact 
-- About me [Linkedin](https://www.linkedin.com/in/juan-camilo-suárez-soto-00430a155/) ▶
+- About me [Linkedin](https://www.linkedin.com/in/camilocsoto/) ▶
 
 <!---
 camilocsoto/camilocsoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
