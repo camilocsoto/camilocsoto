@@ -1,6 +1,6 @@
 # console.log('Hello world 👋')
 
-Hi, my name is Juan Camilo Suárez 👾. I am a Systems Engineering student at Uniminuto, specializing in software development using JavaScript, Docker, Linux, and Python. I also have experience in unit testing, staff training, and SAP support in different countries. My goal is to transition to the machine learning and deep learning field to offer cutting-edge AI-based solutions 🚀.
+Hi, I'm Juan Camilo Suarez 👾. I am a Systems Engineering student at Uniminuto. I've been working with frameworks such as Django, Flask, and FastAPI. I also have experience using Docker and Azure to deploy a few projects. Additionally, I consider myself skilled at creating and managing SQL and NoSQL databases. My goal is to transition into the machine learning and deep learning field to offer cutting-edge AI-based solutions 🚀.
 
 I am an eternal student 💚.
 
@@ -10,7 +10,16 @@ I am an eternal student 💚.
 
 ## 💻 Technologies I use
 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 ## 🧪 Hobbies 
 
