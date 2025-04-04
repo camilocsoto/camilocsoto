@@ -26,7 +26,7 @@ I am an eternal student 💚.
 - read sci-fi books 📘
 - Listen music and podcasts 🎧
 - Watch movies and series of Star Wars 📽
-- Watch battle bots fights ⚔️
+- Watch battle bots fights 🤖
 
 ## ✉️ How to get in contact 
 - About me [Linkedin](https://www.linkedin.com/in/camilocsoto/) ▶
