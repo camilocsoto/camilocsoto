@@ -10,9 +10,9 @@ At the end I am an eternal student 💚.
 
 ## 🚀 My projects
 
-- [dashboard to determine the gas quantity]([https://github.com/Platzi-Master-C8/gethired-jobplacement-enterprise-Frontend](https://github.com/Nodens-uwu/mokepones))
-- [Training of three supervised algorithms to predict wine quality](/)
-- [Mokepon videogame]([https://github.com/Platzi-Master-C8/gethired-jobplacement-enterprise-Frontend](https://github.com/Nodens-uwu/mokepones))
+- [dashboard to determine the gas quantity](https://www.linkedin.com/posts/andstec_integraci%C3%B3n-entre-ti-y-iot-activity-7246883960897589253-XeYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAACU-N4QBiX7S-UaJ2qzWJwStEAC5q5FWj10)  
+- [Training of three supervised algorithms to predict wine quality](/)  
+- [Mokepon videogame](https://github.com/Nodens-uwu/mokepones)  
 
 ## 💻 Technologies I use
 
